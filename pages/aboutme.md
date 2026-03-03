@@ -1,7 +1,7 @@
 ---
-title: My Portfolio
+title: About Me
 layout: collection
-permalink: /Myportfolio
+permalink: /AboutMe
 ---
 
 {{site.description}}
