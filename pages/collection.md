@@ -1,7 +1,7 @@
 ---
-title: Our Collection
+title: My Portfolio
 layout: collection
-permalink: /collection
+permalink: /Myportfolio
 ---
 
 {{site.description}}
