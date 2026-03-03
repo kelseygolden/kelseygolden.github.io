@@ -1,11 +1,11 @@
 # Site navigation links
 
 - title: About Me
-  url: /collection
+  url: /AboutMe
   excerpt:
   image:
 
 - title: My Portfolio
-  url: /collection
+  url: /Myportfolio
   excerpt:
   image:
